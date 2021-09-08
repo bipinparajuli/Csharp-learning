@@ -1,0 +1,16 @@
+/home/bipin/Projects/dotnet/sample1/bin/Debug/net5.0/sample1
+/home/bipin/Projects/dotnet/sample1/bin/Debug/net5.0/sample1.deps.json
+/home/bipin/Projects/dotnet/sample1/bin/Debug/net5.0/sample1.runtimeconfig.json
+/home/bipin/Projects/dotnet/sample1/bin/Debug/net5.0/sample1.runtimeconfig.dev.json
+/home/bipin/Projects/dotnet/sample1/bin/Debug/net5.0/sample1.dll
+/home/bipin/Projects/dotnet/sample1/bin/Debug/net5.0/ref/sample1.dll
+/home/bipin/Projects/dotnet/sample1/bin/Debug/net5.0/sample1.pdb
+/home/bipin/Projects/dotnet/sample1/obj/Debug/net5.0/sample1.csproj.AssemblyReference.cache
+/home/bipin/Projects/dotnet/sample1/obj/Debug/net5.0/sample1.GeneratedMSBuildEditorConfig.editorconfig
+/home/bipin/Projects/dotnet/sample1/obj/Debug/net5.0/sample1.AssemblyInfoInputs.cache
+/home/bipin/Projects/dotnet/sample1/obj/Debug/net5.0/sample1.AssemblyInfo.cs
+/home/bipin/Projects/dotnet/sample1/obj/Debug/net5.0/sample1.csproj.CoreCompileInputs.cache
+/home/bipin/Projects/dotnet/sample1/obj/Debug/net5.0/sample1.dll
+/home/bipin/Projects/dotnet/sample1/obj/Debug/net5.0/ref/sample1.dll
+/home/bipin/Projects/dotnet/sample1/obj/Debug/net5.0/sample1.pdb
+/home/bipin/Projects/dotnet/sample1/obj/Debug/net5.0/sample1.genruntimeconfig.cache

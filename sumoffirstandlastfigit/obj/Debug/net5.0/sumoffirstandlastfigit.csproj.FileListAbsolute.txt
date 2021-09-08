@@ -1,0 +1,16 @@
+/home/bipin/Projects/dotnet/sumoffirstandlastfigit/bin/Debug/net5.0/sumoffirstandlastfigit
+/home/bipin/Projects/dotnet/sumoffirstandlastfigit/bin/Debug/net5.0/sumoffirstandlastfigit.deps.json
+/home/bipin/Projects/dotnet/sumoffirstandlastfigit/bin/Debug/net5.0/sumoffirstandlastfigit.runtimeconfig.json
+/home/bipin/Projects/dotnet/sumoffirstandlastfigit/bin/Debug/net5.0/sumoffirstandlastfigit.runtimeconfig.dev.json
+/home/bipin/Projects/dotnet/sumoffirstandlastfigit/bin/Debug/net5.0/sumoffirstandlastfigit.dll
+/home/bipin/Projects/dotnet/sumoffirstandlastfigit/bin/Debug/net5.0/ref/sumoffirstandlastfigit.dll
+/home/bipin/Projects/dotnet/sumoffirstandlastfigit/bin/Debug/net5.0/sumoffirstandlastfigit.pdb
+/home/bipin/Projects/dotnet/sumoffirstandlastfigit/obj/Debug/net5.0/sumoffirstandlastfigit.csproj.AssemblyReference.cache
+/home/bipin/Projects/dotnet/sumoffirstandlastfigit/obj/Debug/net5.0/sumoffirstandlastfigit.GeneratedMSBuildEditorConfig.editorconfig
+/home/bipin/Projects/dotnet/sumoffirstandlastfigit/obj/Debug/net5.0/sumoffirstandlastfigit.AssemblyInfoInputs.cache
+/home/bipin/Projects/dotnet/sumoffirstandlastfigit/obj/Debug/net5.0/sumoffirstandlastfigit.AssemblyInfo.cs
+/home/bipin/Projects/dotnet/sumoffirstandlastfigit/obj/Debug/net5.0/sumoffirstandlastfigit.csproj.CoreCompileInputs.cache
+/home/bipin/Projects/dotnet/sumoffirstandlastfigit/obj/Debug/net5.0/sumoffirstandlastfigit.dll
+/home/bipin/Projects/dotnet/sumoffirstandlastfigit/obj/Debug/net5.0/ref/sumoffirstandlastfigit.dll
+/home/bipin/Projects/dotnet/sumoffirstandlastfigit/obj/Debug/net5.0/sumoffirstandlastfigit.pdb
+/home/bipin/Projects/dotnet/sumoffirstandlastfigit/obj/Debug/net5.0/sumoffirstandlastfigit.genruntimeconfig.cache

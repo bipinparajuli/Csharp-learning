@@ -1,0 +1,16 @@
+/home/bipin/Projects/dotnet/checkstrong/bin/Debug/net5.0/checkstrong
+/home/bipin/Projects/dotnet/checkstrong/bin/Debug/net5.0/checkstrong.deps.json
+/home/bipin/Projects/dotnet/checkstrong/bin/Debug/net5.0/checkstrong.runtimeconfig.json
+/home/bipin/Projects/dotnet/checkstrong/bin/Debug/net5.0/checkstrong.runtimeconfig.dev.json
+/home/bipin/Projects/dotnet/checkstrong/bin/Debug/net5.0/checkstrong.dll
+/home/bipin/Projects/dotnet/checkstrong/bin/Debug/net5.0/ref/checkstrong.dll
+/home/bipin/Projects/dotnet/checkstrong/bin/Debug/net5.0/checkstrong.pdb
+/home/bipin/Projects/dotnet/checkstrong/obj/Debug/net5.0/checkstrong.csproj.AssemblyReference.cache
+/home/bipin/Projects/dotnet/checkstrong/obj/Debug/net5.0/checkstrong.GeneratedMSBuildEditorConfig.editorconfig
+/home/bipin/Projects/dotnet/checkstrong/obj/Debug/net5.0/checkstrong.AssemblyInfoInputs.cache
+/home/bipin/Projects/dotnet/checkstrong/obj/Debug/net5.0/checkstrong.AssemblyInfo.cs
+/home/bipin/Projects/dotnet/checkstrong/obj/Debug/net5.0/checkstrong.csproj.CoreCompileInputs.cache
+/home/bipin/Projects/dotnet/checkstrong/obj/Debug/net5.0/checkstrong.dll
+/home/bipin/Projects/dotnet/checkstrong/obj/Debug/net5.0/ref/checkstrong.dll
+/home/bipin/Projects/dotnet/checkstrong/obj/Debug/net5.0/checkstrong.pdb
+/home/bipin/Projects/dotnet/checkstrong/obj/Debug/net5.0/checkstrong.genruntimeconfig.cache

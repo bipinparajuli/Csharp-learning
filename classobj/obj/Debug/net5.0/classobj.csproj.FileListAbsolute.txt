@@ -1,0 +1,16 @@
+/home/bipin/Projects/dotnet/classobj/bin/Debug/net5.0/classobj
+/home/bipin/Projects/dotnet/classobj/bin/Debug/net5.0/classobj.deps.json
+/home/bipin/Projects/dotnet/classobj/bin/Debug/net5.0/classobj.runtimeconfig.json
+/home/bipin/Projects/dotnet/classobj/bin/Debug/net5.0/classobj.runtimeconfig.dev.json
+/home/bipin/Projects/dotnet/classobj/bin/Debug/net5.0/classobj.dll
+/home/bipin/Projects/dotnet/classobj/bin/Debug/net5.0/ref/classobj.dll
+/home/bipin/Projects/dotnet/classobj/bin/Debug/net5.0/classobj.pdb
+/home/bipin/Projects/dotnet/classobj/obj/Debug/net5.0/classobj.csproj.AssemblyReference.cache
+/home/bipin/Projects/dotnet/classobj/obj/Debug/net5.0/classobj.GeneratedMSBuildEditorConfig.editorconfig
+/home/bipin/Projects/dotnet/classobj/obj/Debug/net5.0/classobj.AssemblyInfoInputs.cache
+/home/bipin/Projects/dotnet/classobj/obj/Debug/net5.0/classobj.AssemblyInfo.cs
+/home/bipin/Projects/dotnet/classobj/obj/Debug/net5.0/classobj.csproj.CoreCompileInputs.cache
+/home/bipin/Projects/dotnet/classobj/obj/Debug/net5.0/classobj.dll
+/home/bipin/Projects/dotnet/classobj/obj/Debug/net5.0/ref/classobj.dll
+/home/bipin/Projects/dotnet/classobj/obj/Debug/net5.0/classobj.pdb
+/home/bipin/Projects/dotnet/classobj/obj/Debug/net5.0/classobj.genruntimeconfig.cache
