@@ -1,0 +1,16 @@
+/home/bipin/Projects/dotnet/findoddeven/obj/Debug/net5.0/findoddeven.csproj.AssemblyReference.cache
+/home/bipin/Projects/dotnet/findoddeven/obj/Debug/net5.0/findoddeven.GeneratedMSBuildEditorConfig.editorconfig
+/home/bipin/Projects/dotnet/findoddeven/obj/Debug/net5.0/findoddeven.AssemblyInfoInputs.cache
+/home/bipin/Projects/dotnet/findoddeven/obj/Debug/net5.0/findoddeven.AssemblyInfo.cs
+/home/bipin/Projects/dotnet/findoddeven/obj/Debug/net5.0/findoddeven.csproj.CoreCompileInputs.cache
+/home/bipin/Projects/dotnet/findoddeven/bin/Debug/net5.0/findoddeven
+/home/bipin/Projects/dotnet/findoddeven/bin/Debug/net5.0/findoddeven.deps.json
+/home/bipin/Projects/dotnet/findoddeven/bin/Debug/net5.0/findoddeven.runtimeconfig.json
+/home/bipin/Projects/dotnet/findoddeven/bin/Debug/net5.0/findoddeven.runtimeconfig.dev.json
+/home/bipin/Projects/dotnet/findoddeven/bin/Debug/net5.0/findoddeven.dll
+/home/bipin/Projects/dotnet/findoddeven/bin/Debug/net5.0/ref/findoddeven.dll
+/home/bipin/Projects/dotnet/findoddeven/bin/Debug/net5.0/findoddeven.pdb
+/home/bipin/Projects/dotnet/findoddeven/obj/Debug/net5.0/findoddeven.dll
+/home/bipin/Projects/dotnet/findoddeven/obj/Debug/net5.0/ref/findoddeven.dll
+/home/bipin/Projects/dotnet/findoddeven/obj/Debug/net5.0/findoddeven.pdb
+/home/bipin/Projects/dotnet/findoddeven/obj/Debug/net5.0/findoddeven.genruntimeconfig.cache

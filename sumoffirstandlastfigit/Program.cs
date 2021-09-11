@@ -11,6 +11,8 @@ namespace sumoffirstandlastfigit
             {
                 return n;
             }
+
+            //sadsadasd
             int last = n%10;
             while ( n > 10 )
             {

@@ -1,0 +1,16 @@
+/home/bipin/Projects/dotnet/palindrome/bin/Debug/net5.0/palindrome
+/home/bipin/Projects/dotnet/palindrome/bin/Debug/net5.0/palindrome.deps.json
+/home/bipin/Projects/dotnet/palindrome/bin/Debug/net5.0/palindrome.runtimeconfig.json
+/home/bipin/Projects/dotnet/palindrome/bin/Debug/net5.0/palindrome.runtimeconfig.dev.json
+/home/bipin/Projects/dotnet/palindrome/bin/Debug/net5.0/palindrome.dll
+/home/bipin/Projects/dotnet/palindrome/bin/Debug/net5.0/ref/palindrome.dll
+/home/bipin/Projects/dotnet/palindrome/bin/Debug/net5.0/palindrome.pdb
+/home/bipin/Projects/dotnet/palindrome/obj/Debug/net5.0/palindrome.csproj.AssemblyReference.cache
+/home/bipin/Projects/dotnet/palindrome/obj/Debug/net5.0/palindrome.GeneratedMSBuildEditorConfig.editorconfig
+/home/bipin/Projects/dotnet/palindrome/obj/Debug/net5.0/palindrome.AssemblyInfoInputs.cache
+/home/bipin/Projects/dotnet/palindrome/obj/Debug/net5.0/palindrome.AssemblyInfo.cs
+/home/bipin/Projects/dotnet/palindrome/obj/Debug/net5.0/palindrome.csproj.CoreCompileInputs.cache
+/home/bipin/Projects/dotnet/palindrome/obj/Debug/net5.0/palindrome.dll
+/home/bipin/Projects/dotnet/palindrome/obj/Debug/net5.0/ref/palindrome.dll
+/home/bipin/Projects/dotnet/palindrome/obj/Debug/net5.0/palindrome.pdb
+/home/bipin/Projects/dotnet/palindrome/obj/Debug/net5.0/palindrome.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+/home/bipin/Projects/dotnet/namegenerator/obj/Debug/net5.0/namegenerator.csproj.AssemblyReference.cache
+/home/bipin/Projects/dotnet/namegenerator/obj/Debug/net5.0/namegenerator.GeneratedMSBuildEditorConfig.editorconfig
+/home/bipin/Projects/dotnet/namegenerator/obj/Debug/net5.0/namegenerator.AssemblyInfoInputs.cache
+/home/bipin/Projects/dotnet/namegenerator/obj/Debug/net5.0/namegenerator.AssemblyInfo.cs
+/home/bipin/Projects/dotnet/namegenerator/obj/Debug/net5.0/namegenerator.csproj.CoreCompileInputs.cache
+/home/bipin/Projects/dotnet/namegenerator/bin/Debug/net5.0/namegenerator
+/home/bipin/Projects/dotnet/namegenerator/bin/Debug/net5.0/namegenerator.deps.json
+/home/bipin/Projects/dotnet/namegenerator/bin/Debug/net5.0/namegenerator.runtimeconfig.json
+/home/bipin/Projects/dotnet/namegenerator/bin/Debug/net5.0/namegenerator.runtimeconfig.dev.json
+/home/bipin/Projects/dotnet/namegenerator/bin/Debug/net5.0/namegenerator.dll
+/home/bipin/Projects/dotnet/namegenerator/bin/Debug/net5.0/ref/namegenerator.dll
+/home/bipin/Projects/dotnet/namegenerator/bin/Debug/net5.0/namegenerator.pdb
+/home/bipin/Projects/dotnet/namegenerator/obj/Debug/net5.0/namegenerator.dll
+/home/bipin/Projects/dotnet/namegenerator/obj/Debug/net5.0/ref/namegenerator.dll
+/home/bipin/Projects/dotnet/namegenerator/obj/Debug/net5.0/namegenerator.pdb
+/home/bipin/Projects/dotnet/namegenerator/obj/Debug/net5.0/namegenerator.genruntimeconfig.cache
